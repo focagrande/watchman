@@ -1,0 +1,4 @@
+cluser_name: tictactoe
+nutcracker_config_file: /etc/nutcracker/tictactoe.yml
+sentinel_host: localhost
+sentinel_port: 26378
